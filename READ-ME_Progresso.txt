@@ -1,0 +1,37 @@
+Arquivo contendo um programa/app em C#, Com Wiindows Form .NET.
+
+
+
+***********
+-Progresso-
+***********
+
+--Parte 1 --
+
+1- GUI/viewpoint - OK
+2- Display list - OK
+* Remover elementos. - OK
+* Objetos simultaneos. - OK
+3- Pontos e Retas - Parcial ______---Bug na LINHA----______
+* Objeto nomeado. - OK
+* Inserção de cordenadas positivas e negativas - OK
+4- Lista alteração imediata. - OK
+
+--Parte 2--
+
+1- Objetos 2D, polilinhas(poligonos) aberta ou fechada - parcial
+* Nome - OK
+* quantidade de pontos variavel 3 ou mais - Incompleto
+* automaticamente fechar o ultimo ponto com o primeiro, sem necessidade de armazenar os dois pontos. - OK
+* cordenadas positivas e negativas. - OK 
+
+--Parte 3 --
+
+* Navegação - cima,baixo,esquerda,direita - incompleto
+* ZOOM - incompleto
+
+
+
+
+
+
